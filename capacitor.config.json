@@ -1,0 +1,11 @@
+{
+  "appId": "com.picoclaw.app",
+  "appName": "PicoClaw",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "plugins": {
+    "CapacitorHttp": {
+      "enabled": true
+    }
+  }
+}
